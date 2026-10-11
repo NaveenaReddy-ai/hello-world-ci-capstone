@@ -7,3 +7,4 @@ This project demonstrates a simple CI pipeline using GitHub Actions.
 1. Build
 2. Test
 3. Deploy
+This workflow demonstrates automated Build, Test, and Deploy jobs.
